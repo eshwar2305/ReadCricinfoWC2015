@@ -1,0 +1,61 @@
+1,Kolkata Knight Riders,Mumbai Indians,NULL,2015-04-08 20:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+2,Chennai Super Kings,Delhi Daredevils,NULL,2015-04-09 20:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+3,Kings XI Punjab,Rajasthan Royals,NULL,2015-04-10 20:00:00.0,NOT_STARTED,IPL8,Maharashtra Cricket Association Stadium Pune,25,OPEN
+4,Chennai Super Kings,Sunrisers Hyderabad,NULL,2015-04-11 16:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+5,Kolkata Knight Riders,Royal Challengers Bangalore,NULL,2015-04-11 20:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+6,Delhi Darede,ils v Rajasthan Royals,NULL,2015-04-12 16:00:00.0,NOT_STARTED,IPL8,Feroz Shah Kotla Delhi,25,OPEN
+7,Mumbai Indians,Kings XI Punjab,NULL,2015-04-12 20:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+8,Royal Challengers Bangalore,Sunrisers Hyderabad,NULL,2015-04-13 20:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+9,Rajasthan Royals,Mumbai Indians,NULL,2015-04-14 20:00:00.0,NOT_STARTED,IPL8,Sardar Patel Stadium Motera Ahmedabad,25,OPEN
+10,Kings XI Punjab,Delhi Daredevils,NULL,2015-04-15 20:00:00.0,NOT_STARTED,IPL8,Maharashtra Cricket Association Stadium Pune,25,OPEN
+11,Sunrisers Hyderabad,Rajasthan Royals,NULL,2015-04-16 20:00:00.0,NOT_STARTED,IPL8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium Visakhapatnam,25,OPEN
+12,Mumbai Indians,Chennai Super Kings,NULL,2015-04-17 20:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+13,Sunrisers Hyderabad,Delhi Daredevils,NULL,2015-04-18 16:00:00.0,NOT_STARTED,IPL8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium Visakhapatnam,25,OPEN
+14,Kings XI Punjab,Kolkata Knight Riders,NULL,2015-04-18 20:00:00.0,NOT_STARTED,IPL8,Maharashtra Cricket Association Stadium Pune,25,OPEN
+15,Rajasthan Royals,Chennai Super Kings,NULL,2015-04-19 16:00:00.0,NOT_STARTED,IPL8,Sardar Patel Stadium Motera Ahmedabad,25,OPEN
+16,Royal Challengers Bangalore,Mumbai Indians,NULL,2015-04-19 20:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+17,Delhi Darede,ils v Kolkata Knight Riders,NULL,2015-04-20 20:00:00.0,NOT_STARTED,IPL8,Feroz Shah Kotla Delhi,25,OPEN
+18,Rajasthan Royals,Kings XI Punjab,NULL,2015-04-21 20:00:00.0,NOT_STARTED,IPL8,Sardar Patel Stadium Motera Ahmedabad,25,OPEN
+19,Sunrisers Hyderabad,Kolkata Knight Riders,NULL,2015-04-22 16:00:00.0,NOT_STARTED,IPL8,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium Visakhapatnam,25,OPEN
+20,Royal Challengers Bangalore,Chennai Super Kings,NULL,2015-04-22 20:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+21,Delhi Darede,ils v Mumbai Indians,NULL,2015-04-23 20:00:00.0,NOT_STARTED,IPL8,Feroz Shah Kotla Delhi,25,OPEN
+22,Rajasthan Royals,Royal Challengers Bangalore,NULL,2015-04-24 20:00:00.0,NOT_STARTED,IPL8,Sardar Patel Stadium Motera Ahmedabad,25,OPEN
+23,Mumbai Indians,Sunrisers Hyderabad,NULL,2015-04-25 16:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+24,Chennai Super Kings,Kings XI Punjab,NULL,2015-04-25 20:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+25,Kolkata Knight Riders,Rajasthan Royals,NULL,2015-04-26 16:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+26,Delhi Darede,ils v Royal Challengers Bangalore,NULL,2015-04-26 20:00:00.0,NOT_STARTED,IPL8,Feroz Shah Kotla Delhi,25,OPEN
+27,Kings XI Punjab,Sunrisers Hyderabad,NULL,2015-04-27 20:00:00.0,NOT_STARTED,IPL8,Punjab Cricket Association Stadium Mohali Chandigarh,25,OPEN
+28,Chennai Super Kings,Kolkata Knight Riders,NULL,2015-04-28 20:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+29,Royal Challengers Bangalore,Rajasthan Royals,NULL,2015-04-29 20:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+30,Kolkata Knight Riders,Chennai Super Kings,NULL,2015-04-30 20:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+31,Delhi Darede,ils v Kings XI Punjab,NULL,2015-05-01 16:00:00.0,NOT_STARTED,IPL8,Feroz Shah Kotla Delhi,25,OPEN
+32,Mumbai Indians,Rajasthan Royals,NULL,2015-05-01 20:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+33,Royal Challengers Bangalore,Kolkata Knight Riders,NULL,2015-05-02 16:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+34,Sunrisers Hyderabad,Chennai Super Kings,NULL,2015-05-02 20:00:00.0,NOT_STARTED,IPL8,Rajiv Gandhi International Stadium Uppal Hyderabad,25,OPEN
+35,Kings XI Punjab,Mumbai Indians,NULL,2015-05-03 16:00:00.0,NOT_STARTED,IPL8,Punjab Cricket Association Stadium Mohali Chandigarh,25,OPEN
+36,Rajasthan Royals,Delhi Daredevils,NULL,2015-05-03 20:00:00.0,NOT_STARTED,IPL8,Brabourne Stadium Mumbai,25,OPEN
+37,Chennai Super Kings,Royal Challengers Bangalore,NULL,2015-05-04 16:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+38,Kolkata Knight Riders,Sunrisers Hyderabad,NULL,2015-05-04 20:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+39,Mumbai Indians,Delhi Daredevils,NULL,2015-05-05 20:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+40,Royal Challengers Bangalore,Kings XI Punjab,NULL,2015-05-06 20:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+41,Rajasthan Royals,Sunrisers Hyderabad,NULL,2015-05-07 16:00:00.0,NOT_STARTED,IPL8,Brabourne Stadium Mumbai,25,OPEN
+42,Kolkata Knight Riders,Delhi Daredevils,NULL,2015-05-07 20:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+43,Chennai Super Kings,Mumbai Indians,NULL,2015-05-08 20:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+44,Kolkata Knight Riders,Kings XI Punjab,NULL,2015-05-09 16:00:00.0,NOT_STARTED,IPL8,Eden Gardens Kolkata,25,OPEN
+45,Delhi Darede,ils v Sunrisers Hyderabad,NULL,2015-05-09 20:00:00.0,NOT_STARTED,IPL8,Shaheed Veer Narayan Singh International Stadium Raipur,25,OPEN
+46,Mumbai Indians,Royal Challengers Bangalore,NULL,2015-05-10 16:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+47,Chennai Super Kings,Rajasthan Royals,NULL,2015-05-10 20:00:00.0,NOT_STARTED,IPL8,MA Chidambaram Stadium Chepauk Chennai,25,OPEN
+48,Sunrisers Hyderabad,Kings XI Punjab,NULL,2015-05-11 20:00:00.0,NOT_STARTED,IPL8,Rajiv Gandhi International Stadium Uppal Hyderabad,25,OPEN
+49,Delhi Darede,ils v Chennai Super Kings,NULL,2015-05-12 20:00:00.0,NOT_STARTED,IPL8,Shaheed Veer Narayan Singh International Stadium Raipur,25,OPEN
+50,Kings XI Punjab,Royal Challengers Bangalore,NULL,2015-05-13 20:00:00.0,NOT_STARTED,IPL8,Punjab Cricket Association Stadium Mohali Chandigarh,25,OPEN
+51,Mumbai Indians,Kolkata Knight Riders,NULL,2015-05-14 20:00:00.0,NOT_STARTED,IPL8,Wankhede Stadium Mumbai,25,OPEN
+52,Sunrisers Hyderabad,Royal Challengers Bangalore,NULL,2015-05-15 20:00:00.0,NOT_STARTED,IPL8,Rajiv Gandhi International Stadium Uppal Hyderabad,25,OPEN
+53,Kings XI Punjab,Chennai Super Kings,NULL,2015-05-16 16:00:00.0,NOT_STARTED,IPL8,Punjab Cricket Association Stadium Mohali Chandigarh,25,OPEN
+54,Rajasthan Royals,Kolkata Knight Riders,NULL,2015-05-16 20:00:00.0,NOT_STARTED,IPL8,Brabourne Stadium Mumbai,25,OPEN
+55,Royal Challengers Bangalore,Delhi Daredevils,NULL,2015-05-17 16:00:00.0,NOT_STARTED,IPL8,M Chinnaswamy Stadium Bangalore,25,OPEN
+56,Sunrisers Hyderabad,Mumbai Indians,NULL,2015-05-17 20:00:00.0,NOT_STARTED,IPL8,Rajiv Gandhi International Stadium Uppal Hyderabad,25,OPEN
+57,TBC,TBC,NULL,2015-05-19 20:00:00.0,NOT_STARTED,IPL8,TBC,50,CLOSED
+58,TBC,TBC,NULL,2015-05-20 20:00:00.0,NOT_STARTED,IPL8,TBC,50,CLOSED
+59,TBC,TBC,NULL,2015-05-22 20:00:00.0,NOT_STARTED,IPL8,TBC,50,CLOSED
+60,TBC,TBC,NULL,2015-05-24 20:00:00.0,NOT_STARTED,IPL8,TBC,100,CLOSED
+61,TBC,TBC,NULL,2015-05-19 20:00:00.0,NOT_STARTED,Dummy,TBC,0,OPEN
